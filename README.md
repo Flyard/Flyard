@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flyard
-- 👀 I’m interested in Video games, music and code
-- 🌱 I’m currently learning Java, C++
-- 📫 How to reach me : IG -> floooorianranai
+- 👀 I’m interested in Video games, music and coding
+- 🌱 I’m currently learning Javascript (Svelte), Java, and C++
+- 📫 OS: ArchLinux
 
 <!---
 Flyard/Flyard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
