@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Flyard
 - 👀 I’m interested in Video games, music and coding
-- 🌱 I’m currently learning Javascript (Svelte), Java, and C++
-- 📫 OS: ArchLinux
+- 🌱 I’m currently learning Javascript, especially Node and Vue.
+- 📫 OS: MacOS, Archlinux and Windows
+- 
 
 <!---
 Flyard/Flyard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
